@@ -3,7 +3,7 @@ Title: A monograph on computational genomic data science at CDNM
 Description: 
     This monograph addresses many practical concerns in genomic data
     science for research at CDNM.
-Version: 0.98.1
+Version: 0.98.2
 Date: `r date()`
 Authors@R: 
     person(
