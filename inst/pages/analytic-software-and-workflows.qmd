@@ -1,0 +1,9 @@
+# Analytic software and workflows
+
+- external "packages" 
+- task-oriented "scripts"
+- version control and reproducibility
+- instrumentation: how much CPU/RAM/DISK/NET do I need?
+- workflow engineering
+
+

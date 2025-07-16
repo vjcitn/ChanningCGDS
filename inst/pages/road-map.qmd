@@ -1,0 +1,22 @@
+# Road map
+
+- platforms for computing
+    - identity and quotas
+    - interactive analysis environments
+    - batch analysis environments
+    - GPU computing
+    - cloud computing: elastic systems
+- storage management
+    - choosing a representation
+    - measuring the footprint
+    - dealing with versioning: copies vs deltas
+    - "data technologies": keeping up with state of the art
+- data structures
+    - principle of self-description
+    - principle of metadata bound to data
+    - supporting "scalability"
+- analytical software
+    - external "packages"
+    - task-oriented "scripts"
+    - version control and reproducibility
+

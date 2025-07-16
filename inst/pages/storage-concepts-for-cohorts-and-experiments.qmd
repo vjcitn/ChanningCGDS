@@ -1,0 +1,7 @@
+# Storage concepts for cohorts and experiments
+
+- Files and their provenance
+    - efficiency of representation for specific uses
+- Databases and data services
+- Cloud storage and remote access processes
+    - GA4GH Data Repository Service (DRS)

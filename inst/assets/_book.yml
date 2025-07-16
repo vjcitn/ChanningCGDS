@@ -2,6 +2,10 @@ book:
   title: "ChanningCGDS"
   chapters:
     - index.qmd
+    - pages/road-map.qmd
+    - pages/storage-concepts-for-cohorts-and-experiments.qmd
+    - pages/data-structure-concepts-for-genomic-analysis.qmd
+    - pages/analytic-software-and-workflows.qmd
   cover-image: assets/cover.png
   favicon: assets/favicon.png
   sidebar: 
