@@ -1,0 +1,9 @@
+
+# Computing platform concepts
+
+- identity and quotas
+- interactive analysis environments
+- batch analysis environments
+- GPU computing
+- cloud computing: elastic systems
+
