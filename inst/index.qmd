@@ -33,7 +33,7 @@ epigenomics, and "spatial omics" with ultimate focus on lung diseases.
 
 # Docker image {-}
 
-A `Docker` image built from this repository is available here: 
+A `Docker` image built from this repository (for linux amd64 platforms) is available here: 
 
 👉 [ghcr.io/vjcitn/channingcgds](https://ghcr.io/vjcitn/channingcgds) 🐳
 
