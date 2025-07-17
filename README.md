@@ -1,3 +1,5 @@
+## Genomic Data Science for Channing Division of Network Medicine: Principles and Local Details
+
 <!-- badges: start -->
 📦 [Repo](https://github.com/vjcitn/ChanningCGDS) [![rworkflows](https://img.shields.io/github/actions/workflow/status/vjcitn/ChanningCGDS/rworkflows.yml?label=Package%20check)](https://github.com/vjcitn/ChanningCGDS/actions/workflows/rworkflows.yml)   
 📖 [Book](https://vjcitn.github.io/ChanningCGDS/devel) [![deployment](https://img.shields.io/github/actions/workflow/status/vjcitn/ChanningCGDS/pages/pages-build-deployment?label=Book%20deployment)](https://github.com/vjcitn/ChanningCGDS/actions/workflows/pages/pages-build-deployment)  
