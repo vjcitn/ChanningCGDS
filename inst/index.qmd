@@ -25,9 +25,11 @@ intro <- tryCatch(
 
 # Welcome {-}
 
-This is the landing page of the `BiocBook` entitled *...*.  
+This is the landing page of the `BiocBook` entitled ChanningCGDS (CGDS = Computational Genomic Data Science).
 
-This book introduces the reader to *...*.  
+This book introduces the reader to collaborative approaches to learning and teaching
+about research methods in the domains of whole genome sequencing, transcriptomics,
+epigenomics, and "spatial omics" with ultimate focus on lung diseases.
 
 # Docker image {-}
 
